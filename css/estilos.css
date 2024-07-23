@@ -1,0 +1,13 @@
+.contenedor {
+    width: auto;
+    height: auto;
+    border: blue;
+    background-color:black
+}
+.cajas {
+    padding: 10px;
+    cursor: pointer;
+    object-fit: cover;
+    justify-content: space-between;
+    border-radius: 5px;
+}
